@@ -21,8 +21,12 @@ o There are 1,549 employees eligible for mentorship.  There are 569 Senior Staff
 
 ## Summary
 o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+There are 72,458 employees with birthdays between January 1, 1952 and December 31, 1955 that are considered eligible for retirement.
 
 o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are 1,549 employees born between January 1, 1965 and December 31, 1965 who are qualified to mentor the next generation.  The Counts and percentage breakout by job title can be seen below.  The senior level positions make up 71% of the mentors available.
 
+![image](https://user-images.githubusercontent.com/96347024/154584540-a0c25741-bd10-4f77-b41d-048aac5c9362.png)
 
+Using the membership eligibility csv I have calculated each employees Years of Service by taking todays date – from date and divided that by 365.  This tells me that the longest people have worked is 37 years.  Here is a sample:
+![image](https://user-images.githubusercontent.com/96347024/154597230-3ad319a6-53fa-4ea1-a10c-9bec52c85419.png)
