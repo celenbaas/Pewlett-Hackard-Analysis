@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-This analysis first looks at the number of retiring employees by job title and second the employees that are eligible for the mentorship program.
+This analysis helps Pewlett-Hackard anticipate concerns with their workforce due to retirements.  The first deep dive looks at the number of retiring employees by job title and second the employees that are eligible for the mentorship program.
 
 ## Results
 
