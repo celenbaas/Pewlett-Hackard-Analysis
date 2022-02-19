@@ -28,5 +28,9 @@ There are 1,549 employees born between January 1, 1965 and December 31, 1965 who
 
 ![image](https://user-images.githubusercontent.com/96347024/154584540-a0c25741-bd10-4f77-b41d-048aac5c9362.png)
 
-Using the membership eligibility csv I have calculated each employees Years of Service by taking todays date – from date and divided that by 365.  This tells me that the longest people have worked is 37 years.  Here is a sample:
+Below are two additional data points that could be further analyzed:
+
+(1) Using the membership eligibility csv I have calculated each employees Years of Service by taking todays date – from date and divided that by 365.  This tells me that the longest people have worked is 37 years.  Here is a sample:
 ![image](https://user-images.githubusercontent.com/96347024/154597230-3ad319a6-53fa-4ea1-a10c-9bec52c85419.png)
+
+(2) If after further review leadership decides more mentors are needed one option to expand the mentorship eligibility would be to look at those born between 1960 and 1966.  This adjustment would be made within the where clause using the following code: e.birth_date BETWEEN '1960-01-01' AND '1966-12-31'
